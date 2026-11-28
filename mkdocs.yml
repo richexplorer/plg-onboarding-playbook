@@ -1,0 +1,8 @@
+site_name: PLG Onboarding Playbook
+site_url: https://plg-os-onboarding-playbook.readthedocs.io/
+repo_url: https://github.com/richexplorer/plg-onboarding-playbook
+theme:
+  name: readthedocs
+nav:
+  - Home: index.md
+  - Activation metrics: activation-metrics.md
