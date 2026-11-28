@@ -1,5 +1,5 @@
 site_name: PLG Onboarding Playbook
-site_url: https://plg-os-onboarding-playbook.readthedocs.io/
+site_url: https://plg-os-onboarding-playbook.readthedocs.io/en/latest/
 repo_url: https://github.com/richexplorer/plg-onboarding-playbook
 theme:
   name: readthedocs
